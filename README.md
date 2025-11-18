@@ -53,4 +53,4 @@ fintech-tdd/
 ---
 
 # Autor
-Projeto criado para atividade de Test Driven Development (TDD).
+Projeto criado para atividade de Test Driven Development (TDD) por Josivaldo Braga jr.
